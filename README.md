@@ -182,3 +182,19 @@ The decision of whether you will be a trustee, executor, attorney for property, 
 - **Guardian**: A guardian is responsible for making legal and personal decisions for someone who is unable to make these decisions themselves. If you have been appointed as a guardian by a court, you have a legal duty to act in the best interest of the ward.
 
 It is important to note that each of these roles comes with specific legal obligations and responsibilities. It is recommended that you seek legal advice to understand the specific requirements and obligations of each role before making any decisions.
+
+## **Who should I give read-only access to AccountAbly to?**
+
+AccountAbly is a SaaS application designed to assist fiduciaries in managing their duties in the administration of an estate, guardianship, or trust. When granting access to the application, it is important to consider who should have read-only access to the system.
+
+Here are some options to consider:
+
+- **Beneficiaries**: Beneficiaries of the estate, guardianship, or trust may want to have read-only access to the system to keep track of the administration of the estate or trust.
+
+- **Accountants**: Accountants who are assisting with the administration of the estate, guardianship, or trust may require read-only access to the system to review financial information and prepare tax returns.
+
+- **Lawyers**: Lawyers who are advising on the administration of the estate, guardianship, or trust may require read-only access to the system to review information and assist with legal matters.
+
+- **Co-fiduciaries**: Co-fiduciaries who are working together to manage the estate, guardianship, or trust may require read-only access to the system to keep track of progress and ensure that all parties are working together effectively.
+
+It is important to evaluate each situation and determine who requires access to the system. It is also important to ensure that access levels are appropriate and that sensitive information is not shared with unauthorized individuals.
