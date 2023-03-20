@@ -1,5 +1,4 @@
-# accountably.github.io
-AccountAbly Knowledge center
+# AccountAbly Knowledge center
 
 Disclaimer: The information provided is for general informational purposes only and is not legal advice. The information provided is not a substitute for the advice of a lawyer who is licensed to practice law in your jurisdiction. The use of AccountAbly or any communication with AccountAbly does not establish a lawyer-client relationship. If you require legal advice, please consult with a licensed lawyer in your jurisdiction. The accuracy, completeness, adequacy or currency of the information provided is not guaranteed. AccountAbly and it's employees are not responsible for any legal issues arising from the use of the information provided.
 
