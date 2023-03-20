@@ -160,3 +160,25 @@ A: The duties of an attorney for property include:
 ### Q: How is an attorney for property compensated?
 
 A: An attorney for property is entitled to be compensated for their services, although the amount may vary depending on the complexity of the financial matters involved and the attorney's relationship to you. If not specified in the document, the attorney for property may be entitled to reasonable compensation based on the time and effort involved in managing your finances.
+
+## What is a Guardian?
+
+A guardian is a person who is appointed by a court to make personal or financial decisions on behalf of someone who is incapable of making those decisions themselves. The person who is incapable of making decisions is referred to as the ward. Guardianship can be granted for minors or for adults who are deemed mentally incapable of making decisions.
+
+Guardianship can also be broken down into two types: guardianship of the person and guardianship of the estate. Guardianship of the person pertains to making decisions regarding the ward’s personal care and well-being. Guardianship of the estate pertains to making financial decisions on behalf of the ward.
+
+It is important to note that a guardian has a fiduciary duty to act in the best interests of the ward and to make decisions in accordance with the ward’s wishes, values, beliefs, and known preferences.
+
+## **How do I decide if I am a trustee, executor, attorney for property, or a guardian?**
+
+The decision of whether you will be a trustee, executor, attorney for property, or a guardian will depend on the specific circumstances of the situation. Here are some general guidelines:
+
+- **Trustee**: A trustee is responsible for managing a trust and ensuring that the assets in the trust are distributed according to the terms of the trust agreement. If you have been named as a trustee in a trust agreement, you have a legal obligation to act in the best interest of the beneficiaries of the trust.
+
+- **Executor**: An executor is responsible for administering the estate of a deceased person. If you have been named as the executor of someone's will, you will be responsible for collecting and managing the assets of the estate, paying off any debts, and distributing the remaining assets to the beneficiaries according to the terms of the will.
+
+- **Attorney for Property**: An attorney for property is someone who has been given the legal authority to make financial decisions on behalf of another person. This can include managing bank accounts, paying bills, and making investment decisions. If you have been named as an attorney for property, you have a legal obligation to act in the best interest of the person who appointed you.
+
+- **Guardian**: A guardian is responsible for making legal and personal decisions for someone who is unable to make these decisions themselves. If you have been appointed as a guardian by a court, you have a legal duty to act in the best interest of the ward.
+
+It is important to note that each of these roles comes with specific legal obligations and responsibilities. It is recommended that you seek legal advice to understand the specific requirements and obligations of each role before making any decisions.
