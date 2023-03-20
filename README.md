@@ -125,3 +125,38 @@ A: A trustee is entitled to be compensated for their services, although the amou
 ### Q: Can a trustee be removed?
 
 A: Yes, a trustee can be removed if they are not fulfilling their duties or are acting in a way that is detrimental to the trust or its beneficiaries. This may require a court order and can be a complicated process.
+
+Sure, here's an FAQ explaining what an attorney for property is:
+
+## What is an Attorney for Property?
+
+### Q: What is an attorney for property?
+
+A: An attorney for property, also known as a power of attorney for property, is a legal document that allows someone to make decisions about your financial affairs if you are unable to do so. The person you appoint as your attorney for property has the authority to manage your finances, pay bills, make investments, and handle other financial matters on your behalf.
+
+### Q: Who can be an attorney for property?
+
+A: Any adult who is of sound mind and not a convicted felon can be named as an attorney for property. The person you choose should be someone you trust to manage your finances in accordance with your wishes.
+
+### Q: When does an attorney for property take effect?
+
+A: An attorney for property takes effect when you become unable to manage your own financial affairs due to incapacity or other reasons specified in the document. This may be a temporary or permanent incapacity.
+
+### Q: Can an attorney for property be revoked?
+
+A: Yes, an attorney for property can be revoked at any time as long as you have the capacity to do so. It is important to update your attorney for property if your circumstances or wishes change.
+
+### Q: What are the duties of an attorney for property?
+
+A: The duties of an attorney for property include:
+
+- Managing your finances in accordance with your wishes and best interests
+- Keeping accurate records of all financial transactions
+- Providing regular accountings to you or your designated representatives
+- Making investment decisions in a prudent and responsible manner
+- Paying bills and managing other financial obligations
+- Filing taxes on your behalf
+
+### Q: How is an attorney for property compensated?
+
+A: An attorney for property is entitled to be compensated for their services, although the amount may vary depending on the complexity of the financial matters involved and the attorney's relationship to you. If not specified in the document, the attorney for property may be entitled to reasonable compensation based on the time and effort involved in managing your finances.
