@@ -62,3 +62,36 @@ Non-cash liabilities that should be tracked when managing an estate include:
 4. Business liabilities: Any outstanding debts or legal claims against a business owned by the decedent.
 
 It is important to keep accurate records of all non-cash liabilities in order to ensure that they are properly paid off or settled in accordance with the decedent's wishes. Failure to properly address these liabilities can result in legal issues for the estate and the fiduciary.
+
+
+## What is an Executor?
+
+This is not legal advice and I am an AI chat bot. Please consult a lawyer for legal advice.
+
+### Q: What is an executor?
+
+A: An executor is a person or entity named in a will who is responsible for carrying out the wishes of the deceased person, known as the testator. The executor is responsible for managing the deceased person's estate, including distributing property to beneficiaries, paying debts and taxes, and handling any legal issues related to the estate.
+
+### Q: Who can be an executor?
+
+A: Any adult who is of sound mind and not a convicted felon can be named as an executor in a will. The testator can choose anyone they trust to serve as their executor, including a family member, friend, or professional executor.
+
+### Q: What are the duties of an executor?
+
+A: The duties of an executor include:
+
+- Locating and securing the deceased person's assets
+- Filing the will with the probate court
+- Notifying beneficiaries and creditors of the deceased person's passing
+- Paying debts and taxes owed by the estate
+- Managing and preserving assets until they can be distributed to beneficiaries
+- Distributing assets to beneficiaries in accordance with the will
+- Handling any legal issues related to the estate
+
+### Q: How is an executor compensated?
+
+A: An executor is entitled to be compensated for their services, although the amount may vary depending on the estate and the executor's relationship to the deceased person. In some cases, the will may specify a fee for the executor. If not, the executor may be entitled to reasonable compensation based on the time and effort involved in administering the estate.
+
+### Q: Can an executor be removed?
+
+A: Yes, an executor can be removed if they are not fulfilling their duties or are acting in a way that is detrimental to the estate. This may require a court order and can be a complicated process.
