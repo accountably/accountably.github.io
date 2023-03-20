@@ -66,8 +66,6 @@ It is important to keep accurate records of all non-cash liabilities in order to
 
 ## What is an Executor?
 
-This is not legal advice and I am an AI chat bot. Please consult a lawyer for legal advice.
-
 ### Q: What is an executor?
 
 A: An executor is a person or entity named in a will who is responsible for carrying out the wishes of the deceased person, known as the testator. The executor is responsible for managing the deceased person's estate, including distributing property to beneficiaries, paying debts and taxes, and handling any legal issues related to the estate.
@@ -95,3 +93,35 @@ A: An executor is entitled to be compensated for their services, although the am
 ### Q: Can an executor be removed?
 
 A: Yes, an executor can be removed if they are not fulfilling their duties or are acting in a way that is detrimental to the estate. This may require a court order and can be a complicated process.
+
+Sure, here's an FAQ explaining what a trustee is:
+
+## What is a Trustee?
+
+### Q: What is a trustee?
+
+A: A trustee is a person or entity named in a trust who is responsible for managing the assets held in the trust for the benefit of the trust's beneficiaries. The trustee has a legal obligation to act in the best interests of the beneficiaries and to manage the trust assets in accordance with the terms of the trust.
+
+### Q: Who can be a trustee?
+
+A: Any adult who is of sound mind and not a convicted felon can be named as a trustee. The trustor, also known as the grantor or settlor, can choose anyone they trust to serve as their trustee, including a family member, friend, or professional trustee.
+
+### Q: What are the duties of a trustee?
+
+A: The duties of a trustee include:
+
+- Managing the trust assets in accordance with the terms of the trust
+- Acting in the best interests of the beneficiaries
+- Keeping accurate records of all trust transactions
+- Providing regular accountings to the beneficiaries
+- Investing the trust assets prudently
+- Paying taxes owed by the trust
+- Distributing trust assets to beneficiaries in accordance with the terms of the trust
+
+### Q: How is a trustee compensated?
+
+A: A trustee is entitled to be compensated for their services, although the amount may vary depending on the trust and the trustee's relationship to the trustor. In some cases, the trust may specify a fee for the trustee. If not, the trustee may be entitled to reasonable compensation based on the time and effort involved in managing the trust.
+
+### Q: Can a trustee be removed?
+
+A: Yes, a trustee can be removed if they are not fulfilling their duties or are acting in a way that is detrimental to the trust or its beneficiaries. This may require a court order and can be a complicated process.
