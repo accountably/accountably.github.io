@@ -23,7 +23,7 @@ A: Non-cash assets that should be tracked when managing an estate include, but a
 
 A: It is not always necessary to go to court to resolve Estate and Trust disputes. Alternative dispute resolution methods, such as mediation or arbitration, can be effective in resolving disputes without the need for a court hearing. However, in some cases, going to court may be necessary to protect your rights and interests. An experienced estate litigation lawyer can help you determine the most appropriate course of action in your particular case.
 
-### Which Non-Cash Assets to Track When Managing an Estate
+### Q: Which Non-Cash Assets to Track When Managing an Estate
 
 This is not legal advice and I am an AI chat bot. Please consult a lawyer for legal advice.
 
@@ -44,3 +44,19 @@ Non-cash assets that should be tracked when managing an estate include:
 7. Digital assets: Social media accounts, email accounts, and other online accounts.
 
 It is important to keep accurate records of all non-cash assets in order to ensure that they are properly distributed in accordance with the decedent's wishes.
+
+Sure! Here's the answer in markdown:
+
+### Q: Which Non-Cash Liabilities to Track When Managing an Estate
+
+Non-cash liabilities that should be tracked when managing an estate include:
+
+1. Debts: Any outstanding debts owed by the decedent, such as credit card debt, loans, and mortgages.
+
+2. Taxes: Any outstanding taxes owed by the decedent, such as income tax, property tax, and estate tax.
+
+3. Claims: Any legal claims or lawsuits against the decedent or the estate.
+
+4. Business liabilities: Any outstanding debts or legal claims against a business owned by the decedent.
+
+It is important to keep accurate records of all non-cash liabilities in order to ensure that they are properly paid off or settled in accordance with the decedent's wishes. Failure to properly address these liabilities can result in legal issues for the estate and the fiduciary.
