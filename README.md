@@ -22,8 +22,6 @@ A: It is not always necessary to go to court to resolve Estate and Trust dispute
 
 ### Q: Which Non-Cash Assets to Track When Managing an Estate
 
-This is not legal advice and I am an AI chat bot. Please consult a lawyer for legal advice.
-
 Non-cash assets that should be tracked when managing an estate include:
 
 1. Real estate: Any property owned by the decedent, such as a house, apartment, or land.
