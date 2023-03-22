@@ -42,8 +42,6 @@ Non-cash assets that should be tracked when managing an estate include:
 
 It is important to keep accurate records of all non-cash assets in order to ensure that they are properly distributed in accordance with the decedent's wishes.
 
-Sure! Here's the answer in markdown:
-
 ### Q: Which Non-Cash Liabilities to Track When Managing an Estate
 
 Non-cash liabilities that should be tracked when managing an estate include:
@@ -89,8 +87,6 @@ A: An executor is entitled to be compensated for their services, although the am
 
 A: Yes, an executor can be removed if they are not fulfilling their duties or are acting in a way that is detrimental to the estate. This may require a court order and can be a complicated process.
 
-Sure, here's an FAQ explaining what a trustee is:
-
 ## What is a Trustee?
 
 ### Q: What is a trustee?
@@ -120,8 +116,6 @@ A: A trustee is entitled to be compensated for their services, although the amou
 ### Q: Can a trustee be removed?
 
 A: Yes, a trustee can be removed if they are not fulfilling their duties or are acting in a way that is detrimental to the trust or its beneficiaries. This may require a court order and can be a complicated process.
-
-Sure, here's an FAQ explaining what an attorney for property is:
 
 ## What is an Attorney for Property?
 
