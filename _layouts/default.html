@@ -8,6 +8,33 @@
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    
+    <script>
+  (function(h,o,u,n,d) {
+    h=h[d]=h[d]||{q:[],onReady:function(c){h.q.push(c)}}
+    d=o.createElement(u);d.async=1;d.src=n
+    n=o.getElementsByTagName(u)[0];n.parentNode.insertBefore(d,n)
+  })(window,document,'script','https://www.datadoghq-browser-agent.com/datadog-rum-v4.js','DD_RUM')
+  DD_RUM.onReady(function() {
+    DD_RUM.init({
+      clientToken: 'pub4df3b7f3262cbc1cc5102be34a6a3555',
+      applicationId: 'f359dcea-2527-4fcf-a705-bb2bd5e9e396',
+      site: 'datadoghq.com',
+      service: 'accountably-com',
+      env: 'prod',
+      // Specify a version number to identify the deployed version of your application in Datadog 
+      // version: '1.0.0',
+      sessionSampleRate: 100,
+      sessionReplaySampleRate: 100,
+      trackUserInteractions: true,
+      trackResources: true,
+      trackLongTasks: true,
+      defaultPrivacyLevel: 'mask-user-input',
+    });
+
+    DD_RUM.startSessionReplayRecording();
+  })
+</script>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
