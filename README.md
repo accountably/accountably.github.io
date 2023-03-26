@@ -20,6 +20,28 @@ A: A power of attorney is a legal document that grants someone (the "attorney") 
 
 A: It is not always necessary to go to court to resolve Estate and Trust disputes. Alternative dispute resolution methods, such as mediation or arbitration, can be effective in resolving disputes without the need for a court hearing. However, in some cases, going to court may be necessary to protect your rights and interests. An experienced estate litigation lawyer can help you determine the most appropriate course of action in your particular case.
 
+### Q: Can I charge subscription cost of AccountAbly to the estate I'm managing?
+
+A: In general, the fees and expenses incurred by a fiduciary in the administration of an estate or trust are typically reimbursable from the assets of the estate or trust. However, it is important to ensure that the fees and expenses are reasonable and necessary. Depending on the specific circumstances of your case, it may be appropriate to charge the subscription cost of AccountAbly to the estate you are managing. 
+
+### Q: What should my first steps be when beginning to manage an estate?
+
+**A:**
+
+1. **Review the will:** The first step in managing an estate is to review the will to ensure that you understand the testator's wishes and intentions, and to identify the beneficiaries and the assets of the estate.
+
+2. **Take possession of assets:** You should take possession of the assets of the estate as soon as possible, and ensure that they are secure and protected.
+
+3. **Notify interested parties:** You should notify interested parties, such as the beneficiaries and creditors, of the testator's death and your appointment as estate manager.
+
+4. **Obtain necessary documents:** You may need to obtain copies of the death certificate, the will, and other important documents, such as deeds, bank statements, and tax returns.
+
+5. **Identify and pay debts:** You should identify and pay any outstanding debts of the estate, such as funeral expenses, taxes, and outstanding bills.
+
+6. **Prepare an inventory:** You should prepare an inventory of the assets of the estate, including their value, and keep accurate records of all transactions and communications related
+
+7. **Seek legal advice**: It's important to seek legal advice from a qualified estate litigation lawyer when managing an estate to ensure that you are fulfilling your duties and obligations
+
 ### Q: Which Non-Cash Assets to Track When Managing an Estate
 
 Non-cash assets that should be tracked when managing an estate include:
