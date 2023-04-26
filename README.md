@@ -223,3 +223,126 @@ Here are some options to consider:
 - **Co-fiduciaries**: Co-fiduciaries who are working together to manage the estate, guardianship, or trust may require read-only access to the system to keep track of progress and ensure that all parties are working together effectively.
 
 It is important to evaluate each situation and determine who requires access to the system. It is also important to ensure that access levels are appropriate and that sensitive information is not shared with unauthorized individuals.
+
+# Asset Types
+
+## What is an Annuity?
+
+An annuity is a financial product that provides a series of payments over a specified period. These payments can be fixed or variable and are typically used as a source of income during retirement.
+
+## What are Bonds?
+
+Bonds are debt securities issued by companies or governments. Investors who purchase bonds are essentially lending money to the issuer in exchange for regular interest payments and the return of the principal amount at maturity.
+
+## What is a Brokerage Account?
+
+A brokerage account is an investment account that allows individuals to buy and sell various types of securities, such as stocks, bonds, and mutual funds.
+
+## What is a Business?
+
+A business is an organization engaged in commercial, industrial, or professional activities to generate profit. An individual's ownership stake in a business is considered an asset.
+
+## What is Cash?
+
+Cash refers to money in the form of currency or liquid assets that can be easily accessed and spent.
+
+## What is a Collectible?
+
+A collectible is an item that has value due to its rarity or cultural significance, such as art, antiques, stamps, or coins.
+
+## What is Cryptocurrency?
+
+Cryptocurrency is a digital or virtual currency that uses cryptography for security and operates independently of central banks or governments.
+
+## What is a Deposit Account?
+
+A deposit account is a bank account that allows individuals to deposit and withdraw funds, such as a checking or savings account.
+
+## What is an Estate Account?
+
+An estate account is a financial account opened by an executor during the probate process to manage the assets and liabilities of a deceased person's estate.
+
+## What is Jewelry?
+
+Jewelry refers to personal adornments made from precious metals, gemstones, or other valuable materials.
+
+## What is Life Insurance?
+
+Life insurance is a contract between an individual and an insurance company, in which the insurer agrees to pay a predetermined amount to the individual's beneficiaries upon their death. The insured individual pays premiums in exchange for this coverage.
+
+## What is a Loan?
+
+A loan is an agreement between a borrower and a lender, in which the borrower receives a sum of money and agrees to repay the principal amount with interest over a specified period.
+
+## What is Other Personal Property?
+
+Other personal property refers to any valuable items not included in the categories listed above, such as furniture, appliances, or electronics.
+
+## What are Precious Metals?
+
+Precious metals are rare, naturally occurring metallic elements with high economic value, such as gold, silver, and platinum.
+
+## What is Real Estate?
+
+Real estate refers to land and any permanent structures or improvements on it, such as houses, buildings, or other property.
+
+## What is a Refund?
+
+A refund is a repayment of money to an individual, often resulting from overpayment, returned goods, or tax adjustments.
+
+## What is Retirement (RRSP, LIRA)?
+
+Retirement accounts, such as Registered Retirement Savings Plans (RRSP) and Locked-In Retirement Accounts (LIRA), are tax-advantaged investment accounts designed to help individuals save for retirement.
+
+## What are Stocks?
+
+Stocks, also known as shares or equities, represent ownership interests in companies. Investors who purchase stocks become shareholders and may receive a portion of the company's profits in the form of dividends.
+
+## What is a TFSA?
+
+A Tax-Free Savings Account (TFSA) is a tax-advantaged investment account that allows individuals to save and invest money without paying tax on the interest, dividends, or capital gains earned within the account.
+
+## What is a Trust?
+
+A trust is a legal arrangement in which one party, known as the trustor, transfers assets to another party, known as the trustee, who manages the assets for the benefit of one or more beneficiaries.
+
+## What is a Vehicle?
+
+A vehicle is a mode of transportation, such as a car, truck, motorcycle, or boat, that can be used for personal or commercial purposes.
+# Liability Types
+
+## What is a Bill?
+
+A bill is a statement of money owed for goods or services provided. Examples of bills include utility bills, phone bills, and medical bills. These are considered short-term liabilities as they are typically due within a month.
+
+## What is a Bond?
+
+A bond is a debt security issued by companies or governments. The issuer owes the bondholder the principal amount plus interest over a specified period. If an individual holds a bond as a liability, it means they are responsible for repaying the debt.
+
+## What is a Credit Card?
+
+A credit card is a financial product that allows individuals to borrow money from a financial institution to make purchases or withdraw cash. The outstanding balance on a credit card is considered a liability, as it represents the amount owed to the financial institution.
+
+## What is an Executor Expense?
+
+Executor expenses are costs incurred by the executor of an estate in the process of administering and distributing the assets of a deceased person. These expenses may include legal fees, accounting fees, and other related costs.
+
+## What is an Executor Loan?
+
+An executor loan is a loan taken out by the executor of an estate to cover expenses related to the administration and distribution of the assets of a deceased person. This loan is considered a liability of the estate and must be repaid from the estate's assets.
+
+## What is a Loan?
+
+A loan is an agreement between a borrower and a lender, in which the borrower receives a sum of money and agrees to repay the principal amount with interest over a specified period. Loans are considered liabilities, as they represent the amount owed to the lender.
+
+## What is a Medical Liability?
+
+A medical liability refers to any outstanding debt related to medical expenses, such as hospital bills or costs for ongoing treatments.
+
+## What is an Other Liability?
+
+An other liability refers to any debt or financial obligation not included in the categories listed above. This may include personal loans from family or friends, legal settlements, or other miscellaneous debts.
+
+## What are Taxes?
+
+Taxes are compulsory payments made to the government by individuals and businesses based on their income, property, or consumption of goods and services. Unpaid taxes are considered liabilities and may include income taxes, property taxes, or sales taxes.
